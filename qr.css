@@ -49,7 +49,9 @@ img.qr-image{
        .qr-section{
         width: fit-content;
        }
-       
+       .heading{
+        font-size: 20px;
+       }
        
       
        
