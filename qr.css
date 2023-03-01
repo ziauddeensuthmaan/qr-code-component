@@ -41,7 +41,7 @@ img.qr-image{
     text-align: center;
     font-size: 15px;
 }
-@media (max-width:390px) {
+@media (max-width:400px) {
        body{
         background-color: hsl(212, 45%, 89%);
         margin: 0;
