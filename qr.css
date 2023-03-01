@@ -45,11 +45,9 @@ img.qr-image{
        body{
         background-color: hsl(212, 45%, 89%);
         margin: 0;
-        width: auto;
+        
        }
-       .qr-section{
-        width: fit-content;
-       }
+      
        .heading{
         font-size: 20px;
        }
