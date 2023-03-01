@@ -1,22 +1,7 @@
 body{
-    background-color: white;
-}
-
-.qr-section{
-    width: 75%;
     background-color: hsl(212, 45%, 89%);
-    margin-left: auto;
-    margin-right: auto;
-    padding-top: 10%;
-    padding-bottom: 10%;
-    margin-top: 10%;
-    margin-bottom: 10%;
     
-    
-   
 }
-
-
 
 .box{
     background-color: white;
@@ -26,9 +11,13 @@ body{
     border: none;
     margin-left: auto;
     margin-right: auto; 
+    margin-top: 15%;
        
 }
-img.qr-image{
+
+
+
+img.qr-image{ 
     border-radius: 5%;
     width: 275px;
     height: 250px;
@@ -41,13 +30,9 @@ img.qr-image{
     text-align: center;
     font-size: 15px;
 }
-@media (max-width:400px) {
-       body{
-        background-color: hsl(212, 45%, 89%);
-        margin: 0;
-        
-       }
-      
+@media (max-width:390px) {
+     
+       
        .heading{
         font-size: 20px;
        }
@@ -55,6 +40,7 @@ img.qr-image{
         margin-left: auto;
         margin-right: auto;
        }
+       
        
       
        
